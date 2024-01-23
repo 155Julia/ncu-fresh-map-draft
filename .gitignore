@@ -1,0 +1,9 @@
+# 忽略編譯生成的文件
+audio
+fonts
+icon
+movies
+img
+
+
+.DS_Store
